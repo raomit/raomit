@@ -4,9 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="raomit" /> </p>-->
-
-- 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
-
 - 🌱 I’m currently learning React.Js & I'm skilled at Javascript, Node.js & Express, Java, SQL Databases.
 
 - 👨‍💻 All of my projects are available at [https://github.com/raomit](https://github.com/raomit)
