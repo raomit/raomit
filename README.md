@@ -1,27 +1,24 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+<h1 align="center">Hey Everyone 👋, I'm Mit Rao</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/raomit/raomit/main/githubbanner.png"> </div>
+<h3 align="center">A passionate Software Developer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="raomit" /> </p>-->
 
 - 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
 
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
+- 🌱 I’m currently learning React.Js & I'm skilled at Javascript, Node.js & Express, Java, SQL Databases.
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+- 👨‍💻 All of my projects are available at [https://github.com/raomit](https://github.com/raomit)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 I would love to hit a convo anytime on code, thats my ikigai. 
 
-- 📫 How to reach me **masteraadi246@gmail.com**
+- 📫 How to reach me **mitrao1999@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-  
+<a href="https://linkedin.com/in/raomit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
