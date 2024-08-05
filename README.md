@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="raomit" /> </p>-->
-- 🌱 I’m currently learning React.Js & I'm skilled at Javascript, Node.js & Express, Java, SQL Databases.
+- 🌱 I am currently working as a D365 and Partner Center Developer having a work-on experience on D365 apps including Sales Hub, Customer Service Hub and Field Service. My experience also spans to having strong foundation in technologies like Javascript, C#, Asp.Net Framework as well as Core.
 
 - 👨‍💻 All of my projects are available at [https://github.com/raomit](https://github.com/raomit)
 
